@@ -124,8 +124,8 @@ def main():
 	else:
 		st.subheader("About ToDo List App")
 		st.info("Built with Streamlit")
-		st.info("Jesus Saves @JCharisTech")
-		st.text("Jesse E.Agbe(JCharis)")
+		st.info("Arian Ferragut")
+		# st.text("Jesse E.Agbe(JCharis)")
 
 
 if __name__ == '__main__':
